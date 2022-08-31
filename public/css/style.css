@@ -1,0 +1,101 @@
+.back{
+    background-image: url("../image/jus10.jpeg");
+    /* background-color: blue; */
+}
+
+.login{
+
+    background-color: #28a745;
+    text-align: center;
+    height: 50px;
+    
+}
+.card{
+    width: 690px;
+    height: 420px;
+}
+.col-1 {
+    flex: 0 0 auto;
+    width: 6.333333%;
+}
+
+.register{
+    background-color: #28a745;
+    text-align: center;
+
+}
+
+.clnt{
+    background-color: #28a745;
+    text-align: center;
+
+}
+.cat{
+    background-color: #28a745;
+    text-align: center;
+   
+}
+.categorie{
+    background-image: url("../image/jus.jpg") ; 
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.produit{
+    background-color: #28a745;
+    text-align: center;
+}
+.admin{
+    background-image: url("../image/jus\ pasteque.jpeg") ;
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+.prdt{
+    background-image: url("../image/jus2.jpg") ;
+    background-repeat: no-repeat; 
+    background-size: cover;  
+}
+.client{
+    background-image: url("../image/jus6.jpg") ;
+    background-repeat: no-repeat; 
+    background-size: cover;  
+}
+
+.categorie{
+    background-image: url("../image/jus.jpg") ;
+    background-repeat: no-repeat; 
+    background-size: cover;
+
+}
+.cmnd{
+    background-image: url("../image/pasteques.jpg") ;
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+.comm{
+    background-color: #28a745;
+    text-align: center;
+}
+.paimnt{
+    background-image: url("../image/product-8.jpg") ;
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+
+.paiement{
+    background-color: #28a745;
+}
+.livraison{
+    background-color:  #28a745;
+}
+
+.lvrsn{
+    background-image: url("../image/pastq.jpg") ;
+    background-repeat: no-repeat; 
+    background-size: cover; 
+}
+
+    
+
+
+
